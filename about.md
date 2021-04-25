@@ -26,49 +26,57 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+<p align="center">
+  <img src="/assets/images/aboutme/smile.jpeg" width="60%" height="60%" alt="Here's a picture of me smiling!">
+  
+</p>
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+## FAQ
+_Wait, what's your name?_  
+  Legally? Quilvio. Otherwise, it's Kiwi or QE. They sound the same to me so either one works, or you can just call me Q. Other spellings I've seen for it include: quie, que, queue, quilobo, quincy, quivalosa, quilava, qdawg, qberto.  
+    
+_How do you pronounce that? I want to make sure I'm saying it right._  
+I just say "kill-vee-oh" but it's actually a little more like "QUIl-vee-oh", but again either works!  
 
-## Features
+_Where's that name originate from?_  
+   My parents named me after a Padres baseball player in the 90s, Quilvio Veras. As for the name itself, from my understanding, it's Dominican.
+     
+_Fun Facts_  
+    I, despite growing up in San Diego, don't know how to swim. I'm a huge fan of the word _kerfuffle_ for no practical reason. Alan Turing is my favorite mathematician (might or might not be because of Benedict Cumberbatch in [The Imitation Game](https://www.imdb.com/title/tt2084970/)) and I really want to visit Toronto some day!
+    
+## Early Life
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+If this was my Wikipedia page it would say something about how I'm the youngest of 5 children, 3 of them being half siblings. My father works in law enforcement and my mother is a kindergarten teacher. I was born and raised in Chula Vista, California, a city in South Bay, San Diego.  
+    I went to Eastlake High School where I failed to make the most of my high school experience. I ran Cross Country and Track, but video games were my passion. I'd typically play somewhere around 20 hours a week, but oftentimes more...
+    
+## University Involvement
 
-## Skins
+In June 2021, I will graduate from the University of California, Davis with a Bachelor's of Science in Mathematical Analytics and Operations Research.  
+I'm an [ambassador for the College of Letters and Science]("https://lettersandscience.ucdavis.edu/meet-letters-and-science-ambassadors-alas) as well as a board member for the [Student Advisory Board](https://ue.ucdavis.edu/student-advisory-board).  
+I'm part of the on campus bookgroup – ["Reading for Pleasure"](https://aggielife.ucdavis.edu/organization/bookgroup). I've previously served as president of [Moneyball Club](https://www.facebook.com/groups/180006169233528/) at UC Davis and founding treasurer of the [Chicanx Latinx Collegiate Association](https://clcaucd.wixsite.com/clca) (Latinx interest professional development club).  
+I was a student assistant for the [UC Davis School of Law](https://law.ucdavis.edu/alumni/about/) in the External Relations office during the 2018-2019 school year. I assisted in a graduate student's research as an undergraduate research assistant in the Economics department for six months during the 2018-2019 school year.
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+### Spring 2021 Schedule
+- MAT 170: Mathematics for Data Analytics & Decision Making
+- STA 141C: Big Data & High Performance Statistical Computing
+- UWP 104B: Legal Reasoning & Writing
+- FRS 004: Envisioning Climate Futures  
+For a complete list of classes I've taken throughout my undergraduate career, click [here](https://kiwilvio.github.io/courses).
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+## Internships
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+I interned at [DoubleLine Capital LP](https://doubleline.com/) with the Operations team during the summer of 2020. My time was split between the US Funds and Client Reporting teams. My notable works included devising a robust outlier detection system, and generating leads for the sales team.  
 
-### Highlight Theme
+I interned with the Sacramento Kings' Business Intelligence department throughout the 19-20 NBA season. I worked about 25 hours a week, while attending school full-time. My main responsibilities included overseeing our statistical models for forecasting ticket sales and season ticket member retention. Beyond that, I like to say I was a professional graph maker to help make informed decisions (ggplot and Tableau are my best friends).  
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+My first internship was with Kaiser Permanente's Data Security team in 2019. The Data Security team is responsible for analyzing/providing access to employees across KP. I reduced the time to update JRMs (Job Role Matrix) with a new process (~4 days to under an hour), coded VBA scripts to automate monthly reports and wrote a report on the macroeconmic effects of the repeal/replacement of the ACA from a healthcare provider point of view.  
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+I also volunteered as part of the Talent Book Committee. The Talent Book Committee was a team of 6 that collected personal statements, photos and resumes from over 80 KP interns and designed a talent book to be distributed to managers accross the company. I was one of two lead contacts, acting as the main liason between the committee and the rest of the intern cohort.
+
+## Hobbies
+My hobbies are sort of a revolving door. I keep coming back to the same things, but the amount I dedicate to any single thing is constantly changing. A few activities I enjoy are:
+- [Reading](https://www.goodreads.com/user/show/113320568-quilvio-hernandez)
+- Basketball
+- Running
+- Food.
