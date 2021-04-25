@@ -36,7 +36,7 @@ key: page-projects
 
 ## R
 [MLB MVP Prediction Scores](https://github.com/moneyball-club/Winter2019-Workshop-Series/blob/master/summer.Rmd)  
-[Album Analysis with Spotify and Genius APIs](http://kiwilvio.shinyapps.io/final)
+[Album Analysis with Spotify and Genius APIs](http://kiwilvio.shinyapps.io/final)  
 [SQL Exercises](https://kiwilvio.github.io/projects/R/sql.pdf)  
 [NoSQL Exercises](https://kiwilvio.github.io/projects/R/nosql.pdf)  
 [API Exercises](https://kiwilvio.github.io/projects/R/api_and_webscraping.pdf)  
