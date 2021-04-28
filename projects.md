@@ -26,9 +26,11 @@ titles:
 key: page-projects
 ---
 
+
 ## Python
 [PCA and Statistical Concepts](https://kiwilvio.github.io/projects/python/QH_HW1.pdf)  
 [Adjusted Plus-Minus for NBA Hackathon Application](https://kiwilvio.github.io/projects/python/We_Done.html)  
+[Predicting Enagement of NBA Instagram Posts](https://github.com/moneyball-club/NBA_Hackathon/blob/master/demos/business_2019.ipynb)  
 [NBA Longest Name Chain](https://kiwilvio.github.io/projects/python/Hernandez_Quilvio_Data_Work.pdf)  
 [Regression of NCAA Data](https://kiwilvio.github.io/projects/python/Regression_of_NCAA_Data.html) ([Stanford STA50/MCS100](http://web.stanford.edu/class/stats50/r.html))  
 [NBA Regression to the Mean](https://kiwilvio.github.io/projects/python/Regression_to_the_Mean.html) ([Stanford STA50/MCS100](http://web.stanford.edu/class/stats50/r.html))  
