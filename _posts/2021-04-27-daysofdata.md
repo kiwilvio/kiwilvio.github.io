@@ -1,6 +1,6 @@
 ---
 layout: article
-title: #66DaysofData
+title: "#66DaysofData"
 tags: data-science learning habit-building
 author:
   Quilvio Hernandez

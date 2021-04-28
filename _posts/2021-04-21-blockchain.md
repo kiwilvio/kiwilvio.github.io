@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Running Notes on *Blockchain and Money*
+title: "Running Notes on Blockchain and Money (MIT 15.S12 Blockchain and Money, Fall 2018)"
 tags: blockchain bitcoin finance MIT-OCW
 author:
   Quilvio Hernandez
