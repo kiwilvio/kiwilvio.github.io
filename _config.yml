@@ -179,7 +179,9 @@ analytics:
 
 ## => Build
 ##############################
-markdown    : maruku
+markdown    : kramdown
+kramdown:
+  math_engine: mathjax
 highlighter : rouge
 permalink   : date
 
