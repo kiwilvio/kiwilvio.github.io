@@ -9,6 +9,10 @@ use_math: true
   source0=layout.sharing source1=page.sharing -%}
 {%- assign _sharing = __return -%}
 
+{% if page.use_math %}
+      {% include mathjax_support %}
+{% endif %}
+
 <div class="layout--article">
   {%- include article/top/custom.html -%}
 
